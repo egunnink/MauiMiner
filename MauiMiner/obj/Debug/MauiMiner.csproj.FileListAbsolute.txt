@@ -1,0 +1,8 @@
+C:\sandbox\MauiMiner\MauiMiner\bin\Debug\MauiMiner.exe.config
+C:\sandbox\MauiMiner\MauiMiner\obj\Debug\MauiMiner.csprojResolveAssemblyReference.cache
+C:\sandbox\MauiMiner\MauiMiner\bin\Debug\MauiMiner.exe
+C:\sandbox\MauiMiner\MauiMiner\bin\Debug\MauiMiner.pdb
+C:\sandbox\MauiMiner\MauiMiner\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\MauiMiner\MauiMiner\bin\Debug\Newtonsoft.Json.xml
+C:\sandbox\MauiMiner\MauiMiner\obj\Debug\MauiMiner.exe
+C:\sandbox\MauiMiner\MauiMiner\obj\Debug\MauiMiner.pdb
